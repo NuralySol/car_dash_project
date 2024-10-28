@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+beautifulsoup4 = "*"
+pandas = "*"
+matplotlib = "*"
+scikit-learn = "*"
+dash = "*"
+dash-bootstrap-components = "*"
+seaborn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
