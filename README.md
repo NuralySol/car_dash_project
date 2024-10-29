@@ -7,7 +7,7 @@ This application provides an interactive **Data Visualization Dashboard** for ex
 ## ✨ Key Features
 
 - **Interactive Visualizations**: Generate custom plots based on selected car models.
-- **User-Friendly Input**: Enter the desired model names to focus on specific car data from a dropdown menu. 
+- **User-Friendly Input**: Enter the desired model names to focus on specific car data from a dropdown menu.
 - **Real-Time Updates**: Data visualizations adjust dynamically based on user input.
 
 ## 🔧 Technologies Used
